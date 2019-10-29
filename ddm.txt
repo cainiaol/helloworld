@@ -1,4 +1,4 @@
 aaaa
-bbbb
+bbbb conflit by master
 cccc modify by hot_fix
 modifyaaa
